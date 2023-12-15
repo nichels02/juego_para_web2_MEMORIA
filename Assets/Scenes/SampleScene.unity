@@ -586,8 +586,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 13.508972, y: 16.415604}
+  m_SizeDelta: {x: 27.0179, y: 94.5918}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1025894011
 MonoBehaviour:
@@ -633,7 +633,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bb93946d79eecb140b907154d372177f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b26dc9f347123924eac1d6b5ca9fa06a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -696,7 +696,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 455279c72dacf4e3fa8e93942cfde281, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backcardSprite: {fileID: -882909443, guid: 24abd19a6a542480e84365b9237c9cb2, type: 3}
+  backcardSprite: {fileID: 21300000, guid: baf5f3ba76b95cf46905d76c5c75de92, type: 3}
   cardPool:
   - {fileID: 11400000, guid: 98b3458fd842b45569643889b4967a30, type: 2}
   - {fileID: 11400000, guid: 4381acc3468ec4f738f366fef45a5cc1, type: 2}

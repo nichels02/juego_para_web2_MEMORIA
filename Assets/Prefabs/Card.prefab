@@ -136,7 +136,7 @@ MonoBehaviour:
   img: {fileID: 0}
   btn: {fileID: 0}
   frontSprite: {fileID: 0}
-  backSprite: {fileID: 0}
+  backSprite: {fileID: 21300000, guid: baf5f3ba76b95cf46905d76c5c75de92, type: 3}
   _index: 0
   isFlipped: 1
   isPaired: 0
